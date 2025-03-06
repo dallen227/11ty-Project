@@ -1,5 +1,5 @@
 ---
-layout: base.liquid
+layout: layout.liquid
 title: "Welp We Are Gonna Get Conquered"
 date: "2025-03-02"
 ---

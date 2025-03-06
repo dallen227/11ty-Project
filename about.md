@@ -1,5 +1,5 @@
 ---
-layout: base.liquid
+layout: layout.liquid
 title: "About the Explorer"
 ---
 

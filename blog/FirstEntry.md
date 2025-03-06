@@ -1,5 +1,5 @@
 ---
-layout: base.liquid
+layout: layout.liquid
 title: "First Contact on Viltrum"
 date: "2025-02-27"
 ---
